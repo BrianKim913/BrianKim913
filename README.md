@@ -21,10 +21,9 @@
   <div style="display: flex; align-items: flex-start;">
     <img src="https://skillicons.dev/icons?i=spring,linux&theme=dark" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-    <img src="https://skillicons.dev/icons?i=gcp,terraform&theme=dark" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" />
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="55" height="55" />
-    
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="55" height="55" />
+    <img src="https://skillicons.dev/icons?i=gcp,terraform&theme=dark" />
     
   </div>
